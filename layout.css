@@ -16,7 +16,7 @@ header li {
 .clear {clear: both;}
 img{
     position:static;
-    float:right;
+    float:center;
     margin-left:15px;
     height: 300px;
     width: 300px;
@@ -46,20 +46,35 @@ h3 {
 }
 header nav {
     color: #24dede;
+    font-size: 15pt;
 }
 h1 {
-    font-size: 8 pt. 
+    font-size: 40pt; 
 }
-body {background-color:#f2cd7a
+body {background-color:#c2ade8;
+    font-family: 'Snippet', sans-serif;
 }
 footer {
 color: #141212;
 }
+footer li {
+    font-size: 15pt;
+}
 a {
-    color: #472274;  
-    text decoration: none;
+    color: #4f5bbe;  
+    text-decoration: none;
 }
 a:hover {
     color:#9167c3
 }
-
+.ji-tumblr-photos {
+    width: 300px;
+    float:right;
+}
+.main text body {
+    float:left; 
+}
+aside {
+    padding-right: 15px;
+    padding-left: 15px;
+}
