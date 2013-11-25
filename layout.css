@@ -51,7 +51,7 @@ header nav {
 h1 {
     font-size: 40pt; 
 }
-body {background-color:#f5fad6;
+body {background-color:#fff;
     font-family: 'Snippet', sans-serif;
 }
 footer {
@@ -67,8 +67,8 @@ a {
 a:hover {
     color:#9167c3
 }
-.ji-tumblr-photos {
-    width: 300px;
+.twitter-timeline {
+    width: 400px;
     float:right;
 }
 .main text body {
