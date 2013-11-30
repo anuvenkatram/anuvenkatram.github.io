@@ -81,39 +81,12 @@ aside {
 p {
     font-size: 15pt; 
 }
-.linkedin {
+.icons {
     position:static;
     height: 54px;
     width: 54px;
     border-width: thin;
 }
-.twitter {
-    position:static;
-    height: 50px;
-    width: 50px;
-    border-width: thin;
-}
-.tumblr {
-    position:static;
-    height: 50px;
-    width: 50px;
-    border-width: thin;
-}
-.aboutme {
-    position:static;
-    height: 45px;
-    width: 45px;
-    border-width: thin;
-}
-.linkedin:hover {
-background-color: gray;
-}
-.twitter:hover {
-background-color: gray;
-}
-.tumblr:hover {
-background-color: gray;
-}
-.aboutme:hover {
+.icons:hover {
 background-color: gray;
 }
