@@ -14,18 +14,18 @@ header li {
     padding-right: 15px;
 }
 .clear {clear: both;}
-img{
+
+.profilepic {
     position:static;
-    float:center;
+    float:right;
     margin-left:15px;
-    height: 300px;
+    height: 400px;
     width: 300px;
     border-style: solid;
     border-width: thin;
 }
 
 footer li {
-    float: center;
     display: inline;
     margin-right:15px
 }
@@ -52,7 +52,7 @@ h1 {
     font-size: 40pt; 
 }
 body {background-color:#fff;
-    font-family: 'Snippet', sans-serif;
+    font-family: 'Buda', cursive;
 }
 footer {
 color: #141212;
@@ -72,9 +72,48 @@ a:hover {
     float:right;
 }
 .main text body {
-    float:left; 
+    float:left;
 }
 aside {
     padding-right: 15px;
     padding-left: 15px;
+}
+p {
+    font-size: 15pt; 
+}
+.linkedin {
+    position:static;
+    height: 54px;
+    width: 54px;
+    border-width: thin;
+}
+.twitter {
+    position:static;
+    height: 50px;
+    width: 50px;
+    border-width: thin;
+}
+.tumblr {
+    position:static;
+    height: 50px;
+    width: 50px;
+    border-width: thin;
+}
+.aboutme {
+    position:static;
+    height: 45px;
+    width: 45px;
+    border-width: thin;
+}
+.linkedin:hover {
+background-color: gray;
+}
+.twitter:hover {
+background-color: gray;
+}
+.tumblr:hover {
+background-color: gray;
+}
+.aboutme:hover {
+background-color: gray;
 }
