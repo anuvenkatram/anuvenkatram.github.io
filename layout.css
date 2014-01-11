@@ -67,10 +67,12 @@ a {
 a:hover {
     color:#9167c3
 }
+<!-- CSS if you want to add twitter timeline to website
 .twitter-timeline {
     width: 400px;
     float:right;
 }
+-->
 .main text body {
     float:left;
 }
